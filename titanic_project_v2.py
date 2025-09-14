@@ -1,4 +1,3 @@
-# Titanic Project with Gemini 2.0
 # Tujuan utama dari proyek ini adalah untuk membangun model Machine Learning yang dapat memprediksi apakah seorang penumpang akan selamat dari bencana Titanic atau tidak, berdasarkan data yang tersedia.
 
 import pandas as pd
